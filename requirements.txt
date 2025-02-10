@@ -1,0 +1,10 @@
+pytest
+pytest-bdd 
+pytest-playwright 
+pytest-asyncio
+playwright 
+toml 
+python-dotenv
+allure-pytest 
+pytest-html 
+pytest-json-report
