@@ -1,6 +1,7 @@
 ### Prerequsites
 It is important to have the Allure installed before viewing the test results.
-npm install -g allure-commandline --save-dev
+run  
+```npm install -g allure-commandline --save-dev``` to install allure cli.
 
 ### Steps to run the tests
 1. clone the repo
